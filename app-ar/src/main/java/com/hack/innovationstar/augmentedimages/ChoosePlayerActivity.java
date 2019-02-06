@@ -65,7 +65,6 @@ public class ChoosePlayerActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choose_player);
-
         Intent intent = this.getIntent();
         selectPlayer = intent.getStringExtra("selectPlayer");
         connectedTVName = intent.getStringExtra("connectedTVName");
@@ -111,6 +110,7 @@ public class ChoosePlayerActivity extends Activity
             public void onMessage(Message message) {
 
                 Log.v("test", message.getData().toString());
+                Log.d("Entrou", "---------------> ONMESSAGE<---------------------------");
 
                 JSONObject mainObject = null;
 
@@ -307,7 +307,11 @@ public class ChoosePlayerActivity extends Activity
                         fragmentTransaction.addToBackStack("questionScreen");
                         //  fragmentTransaction.add(R.id.fragment_container_new, questionScreenFrag, "questionScreenFrag");
 
-                        fragmentTransaction.commit();
+                        fragmentTransaction.commitAllowingStateLoss();
+                        //startActivity(new Intent(getBaseContext(),QuestionScreenActivity.class));
+                       Intent i = new Intent(getBaseContext(),QuestionScreenActivity.class);
+                       i.putExtra("question", questionStr);
+                       startActivity(i);
                     } else {
                         questionScreenFrag.updateQuestionText(questionStr, option1Str, option2Str, option3Str, option4Str, questionNo);
                         questionScreenFrag.SetRadioGroupButton(true);
@@ -331,7 +335,8 @@ public class ChoosePlayerActivity extends Activity
 
                         currentFrag = ScreenFrag.SCORESCREEN;
 
-                        fragmentTransaction.commit();
+                        //fragmentTransaction.commit();
+                        fragmentTransaction.commitAllowingStateLoss();
                     } else {
                         scoreScreenFrag.updateScoreText(scoreStr);
                     }

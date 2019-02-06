@@ -1,6 +1,7 @@
 package com.hack.innovationstar.augmentedimages;
 
 import android.app.Fragment;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -19,6 +20,7 @@ public class SelectPlayCategoryFragment extends Fragment implements View.OnClick
     private String selectedCategoryforPlay;
     private String playerType;
     private String clientID;
+    ArActivity arActivity=null;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -71,6 +73,7 @@ public class SelectPlayCategoryFragment extends Fragment implements View.OnClick
             Toast.makeText(getActivity(),"Teste!!",Toast.LENGTH_LONG).show();
 
             JSONObject jsonObj = null;
+
             try
             {
                 jsonObj = new JSONObject();
@@ -84,14 +87,15 @@ public class SelectPlayCategoryFragment extends Fragment implements View.OnClick
             String messageSend = jsonObj.toString();
             Log.v(App.TAG, messageSend);
             ChoosePlayerActivity.application.publish("say", messageSend, Message.TARGET_HOST);
-
+            Log.d("Here", "---------------> SelectPlayCategoryFragment.java<---------------------------");
             if(playerType.equals("MultiPlayer"))
             {
                 ((ChoosePlayerActivity)getActivity()).launchWaitScreenFrag();
             }
-
+//
             // ChoosePlayerActivity.application.publish("say", selectedCategoryforPlay, Message.TARGET_HOST);
             // ChoosePlayerActivity.application.disconnect();
+            startActivity(new Intent(getContext(),ArActivity.class));
         }
 
         else if(v.equals(btnDaily))
@@ -144,6 +148,8 @@ public class SelectPlayCategoryFragment extends Fragment implements View.OnClick
                 ((ChoosePlayerActivity)getActivity()).launchWaitScreenFrag();
             }
         }
+        Log.d("Here", "---------------> SelectPlayCategoryFragment.java Errorrrrr<---------------------------");
+
     }
 
     public void initializeListner()

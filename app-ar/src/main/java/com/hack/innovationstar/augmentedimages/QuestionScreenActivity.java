@@ -19,10 +19,11 @@ public class QuestionScreenActivity extends Activity {
 
         Intent intent = this.getIntent();
         questionText = intent.getStringExtra("question");
+       // questionText = "Fake";
+        Log.d("Entrou", "---------------> QuestionScreenActivity()<---------------------------");
         Log.v("rahul", questionText);
 
-        TextView questionTextView = (TextView) findViewById(R.id.questionid);
-
+        TextView questionTextView = findViewById(R.id.questionid);
         questionTextView.setText(questionText);
     }
 
