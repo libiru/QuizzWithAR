@@ -1,0 +1,4 @@
+#Tue Feb 05 16:47:12 BOT 2019
+base.0=C\:\\Users\\libni.n.CORP\\AndroidStudioProjects\\AugmentedUde\\app-ar\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

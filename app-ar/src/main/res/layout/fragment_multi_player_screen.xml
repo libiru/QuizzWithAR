@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ivory"
+    tools:context="com.hack.innovationstar.augmentedimages.MultiPlayerScreenFragment">
+
+    <TextView
+        android:id="@+id/playWithClientId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/gray"
+        android:text="@string/play_with_client"
+        />
+
+    <Button
+        android:id="@+id/yesId"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="@string/ayes"
+        android:background="@drawable/some_row_background"
+        android:textColor="@color/white"
+        android:layout_below="@+id/playWithClientId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/noId"
+        android:layout_height="wrap_content"
+        android:layout_width="120dp"
+        android:text="@string/ano"
+        android:background="@drawable/some_row_background"
+        android:textColor="@color/white"
+        android:layout_below="@+id/yesId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        />
+
+</RelativeLayout>

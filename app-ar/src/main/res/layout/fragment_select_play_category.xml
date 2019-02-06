@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hack.innovationstar.augmentedimages.SelectPlayCategoryFragment"
+    android:background="@color/ivory">
+
+    <RelativeLayout
+        android:layout_marginTop="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rlv_Middle">
+
+        <Button
+            android:id="@+id/btn_Body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="           Corpo Humano           "
+            android:layout_marginTop="60dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/some_row_background"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_Daily"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="         Atividade Diária           "
+            android:background="@drawable/some_row_background"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/white"
+            android:layout_below="@+id/btn_Body"
+            android:layout_marginTop="40dp"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/btn_Cores"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="                 Cores                   "
+            android:background="@drawable/some_row_background"
+            android:textColor="@color/white"
+            android:layout_below="@+id/btn_Daily"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:textAllCaps="false"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

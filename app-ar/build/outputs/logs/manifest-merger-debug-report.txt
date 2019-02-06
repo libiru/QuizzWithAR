@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d0dbeeae988190ce35388c2813477311\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\69cd32eb0354ad650d4bc12a337eb686\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.4.0.aar\1816f79f279e3a8c5288b236294426f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\ab6e91cb3beefb6f2ebef017ebe590e7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\rendering-1.4.0.aar\cb9867b17ee2ec2f69d750ec3975984d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64c5a425323c7f0065480580b5dc94b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f8b56604d6f93fb4d14a3a19be23dd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5efebd42a7a77e06816be3de7768270c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a80ba08076892691c4569208d1b33821\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f02f0c216bcfe1a9a7059a7a4cf5969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8773a4ea9d5dc6e910845b6dbb7f0606\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\362d2238b5e5afcd433f3f01190ebd2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9c9abfffaca549c9a4f5e73e828681dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.4.0.aar\5f7f134d430d9dd9ae3e6ba9494743c4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.ar.sceneform:filament-android:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\filament-android-1.4.0.aar\b1c53e6275ac1d1cada24c875a59216d\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56d7f273a3f357acb29d6af18c0fc5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\343752e0f75a81384bac36a261fdf865\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:4:5-6:35
+	android:required
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:6:9-32
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:5:9-60
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:8:9-51
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:11:9-70
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:18:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:19:5-87
+	android:required
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:19:61-84
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:19:19-60
+application
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:22:5-85:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\69cd32eb0354ad650d4bc12a337eb686\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\69cd32eb0354ad650d4bc12a337eb686\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.4.0.aar\5f7f134d430d9dd9ae3e6ba9494743c4\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.4.0.aar\5f7f134d430d9dd9ae3e6ba9494743c4\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:23:9-28
+activity#com.hack.innovationstar.augmentedimages.MainActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:30:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:34:27-74
+activity#com.hack.innovationstar.augmentedimages.DeviceList
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:37:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:38:13-39
+activity#com.hack.innovationstar.augmentedimages.ChoosePlayerActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:55:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:57:13-65
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:56:13-49
+activity#com.hack.innovationstar.augmentedimages.PlayClientCatActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:62:13-67
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:61:13-50
+activity#com.hack.innovationstar.augmentedimages.AboutActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:66:13-57
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:65:13-42
+activity#com.hack.innovationstar.augmentedimages.QuestionScreenActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:71:13-67
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:70:13-51
+activity#com.hack.innovationstar.augmentedimages.ThankyouActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:73:9-76:20
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:75:13-60
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:74:13-45
+activity#com.hack.innovationstar.augmentedimages.ArActivity
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:77:9-80:20
+	android:label
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:79:13-54
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:78:13-39
+meta-data#com.google.ar.core
+ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:84:9-81
+	android:value
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:84:54-78
+	android:name
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:84:20-53
+uses-sdk
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d0dbeeae988190ce35388c2813477311\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d0dbeeae988190ce35388c2813477311\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\69cd32eb0354ad650d4bc12a337eb686\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\69cd32eb0354ad650d4bc12a337eb686\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.4.0.aar\1816f79f279e3a8c5288b236294426f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.4.0.aar\1816f79f279e3a8c5288b236294426f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\ab6e91cb3beefb6f2ebef017ebe590e7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\ab6e91cb3beefb6f2ebef017ebe590e7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\rendering-1.4.0.aar\cb9867b17ee2ec2f69d750ec3975984d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\rendering-1.4.0.aar\cb9867b17ee2ec2f69d750ec3975984d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:26:5-28:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64c5a425323c7f0065480580b5dc94b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\64c5a425323c7f0065480580b5dc94b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f8b56604d6f93fb4d14a3a19be23dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f8b56604d6f93fb4d14a3a19be23dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5efebd42a7a77e06816be3de7768270c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5efebd42a7a77e06816be3de7768270c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a80ba08076892691c4569208d1b33821\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a80ba08076892691c4569208d1b33821\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f02f0c216bcfe1a9a7059a7a4cf5969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f02f0c216bcfe1a9a7059a7a4cf5969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8773a4ea9d5dc6e910845b6dbb7f0606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8773a4ea9d5dc6e910845b6dbb7f0606\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\362d2238b5e5afcd433f3f01190ebd2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\362d2238b5e5afcd433f3f01190ebd2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9c9abfffaca549c9a4f5e73e828681dd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9c9abfffaca549c9a4f5e73e828681dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\filament-android-1.4.0.aar\b1c53e6275ac1d1cada24c875a59216d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\filament-android-1.4.0.aar\b1c53e6275ac1d1cada24c875a59216d\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56d7f273a3f357acb29d6af18c0fc5a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\56d7f273a3f357acb29d6af18c0fc5a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\343752e0f75a81384bac36a261fdf865\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\343752e0f75a81384bac36a261fdf865\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		ADDED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.4.0] C:\Users\libni.n.CORP\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\79266ab8426965bbe62deaae5976535b\AndroidManifest.xml:42:13-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\libni.n.CORP\AndroidStudioProjects\AugmentedUde\app-ar\src\main\AndroidManifest.xml:2:1-87:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
