@@ -7,6 +7,7 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.samsung.multiscreen.Application;
@@ -29,6 +30,7 @@ public class ChoosePlayerActivity extends Activity
     private String selectPlayer;
     private String connectedTVName;
     private String userName;
+    private String contextQ;
 
     FragmentManager fragmentManager;
     FragmentTransaction fragmentTransaction;
@@ -182,7 +184,9 @@ public class ChoosePlayerActivity extends Activity
                     option4Str = mainObject.getString("option4");
                     questionNo = mainObject.getString("questionNo");
                 } catch (JSONException e) {
-                    //  e.printStackTrace();
+                    Log.d("Entrou", "---------------> PrintHere<---------------------------");
+
+                   // e.printStackTrace();
                 }
 
                 try {
@@ -308,10 +312,28 @@ public class ChoosePlayerActivity extends Activity
                         //  fragmentTransaction.add(R.id.fragment_container_new, questionScreenFrag, "questionScreenFrag");
 
                         fragmentTransaction.commitAllowingStateLoss();
-                        //startActivity(new Intent(getBaseContext(),QuestionScreenActivity.class));
-                       Intent i = new Intent(getBaseContext(),QuestionScreenActivity.class);
-                       i.putExtra("question", questionStr);
-                       startActivity(i);
+                        //------------------option1
+                       startActivity(new Intent(getBaseContext(),QuestionScreenActivity.class));
+
+//                      --------------------------------------------option3
+//                       Intent i = new Intent(getBaseContext(),QuestionScreenActivity.class);
+//                       i.putExtra("question",questionStr);
+//                       startActivity(i);
+//
+                        //-----------------------------option2
+
+                        Bundle bundle2 = new Bundle();
+                        bundle2.putString("question",questionStr);
+                        bundle2.putString("option1", option1Str);
+                        bundle2.putString("option2", option2Str);
+                        bundle2.putString("option3", option3Str);
+                        bundle2.putString("option4", option4Str);
+                        Intent i = new Intent(getBaseContext(),QuestionScreenActivity.class);
+                        i.putExtra("Bundle",bundle2);
+                        startActivity(i);
+
+
+
                     } else {
                         questionScreenFrag.updateQuestionText(questionStr, option1Str, option2Str, option3Str, option4Str, questionNo);
                         questionScreenFrag.SetRadioGroupButton(true);

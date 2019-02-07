@@ -17,14 +17,39 @@ public class QuestionScreenActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_question_screen);
 
+
         Intent intent = this.getIntent();
-        questionText = intent.getStringExtra("question");
-       // questionText = "Fake";
+        //-------------op1
+        //questionText=intent.getStringExtra("question");
+        //-------------op2
+
+        Bundle bundle = intent.getBundleExtra("Bundle");
+        questionText = bundle.getString("question");
+        String option1 = bundle.getString("option1");
+        String option2 = bundle.getString("option2");
+        String option3 = bundle.getString("option3");
+        String option4 = bundle.getString("option4");
+
+//op3
+        //questionText = "fake";
+
         Log.d("Entrou", "---------------> QuestionScreenActivity()<---------------------------");
         Log.v("rahul", questionText);
 
         TextView questionTextView = findViewById(R.id.questionid);
         questionTextView.setText(questionText);
+            //op2
+        TextView option1View = findViewById(R.id.option1id);
+        option1View.setText(option1);
+
+        TextView option2View = findViewById(R.id.option2id);
+        option2View.setText(option2);
+
+        TextView option3View = findViewById(R.id.option3id);
+        option3View.setText(option3);
+
+        TextView option4View = findViewById(R.id.option4id);
+        option4View.setText(option4);
     }
 
     @Override
